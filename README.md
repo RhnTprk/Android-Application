@@ -8,3 +8,7 @@
  # Built With
  - Android Studio
  - Java
+
+# Can be added
+ - Frontend.
+ - Fix issues
